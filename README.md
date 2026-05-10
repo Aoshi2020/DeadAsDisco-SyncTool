@@ -12,6 +12,7 @@ Built for Dead as Disco mapping.
 - Fully offline — no internet required after install
 
 ## Usage
-1. Run `BUILD.bat` to build the exe (requires Python + internet for first build)
-2. Drop any audio file onto the app (MP3, OGG, WAV, FLAC, M4A)
-3. Copy BPM, Beat Offset, and Start Time into Dead as Disco's Advanced Editor
+1. Extract the RAR file
+2. Run `DeadAsDisco-SyncTool.exe`
+3. Drop any audio file onto the app (MP3, OGG, WAV, FLAC, M4A)
+4. Copy BPM, Beat Offset, and Start Time into Dead as Disco's Advanced Editor
