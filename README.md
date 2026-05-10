@@ -23,6 +23,8 @@ This is a known false positive pattern caused by bundling tools like PyInstaller
 
 ## Verification
 You can verify the safety of this project by:
-1. Reviewing the source code in this repository
-2. Running the Python script directly (dead_as_disco_sync.py)
-3. Observing that all execution is local (127.0.0.1 only)
+- Reviewing the source code in this repository
+- Running the Python script directly (dead_as_disco_sync.py)
+- Observing that all execution is local (127.0.0.1 only)
+- Running the Python script directly
+- Scanning with Microsoft Defender Antivirus or Malwarebytes
