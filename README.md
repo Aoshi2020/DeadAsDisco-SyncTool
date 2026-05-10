@@ -3,6 +3,9 @@ A desktop tool for accurately syncing songs in Dead as Disco. Drop in any audio 
 Auto-detects BPM, Beat Offset, and Start Time for any song.
 Built for Dead as Disco mapping.
 
+## About this project
+I’m fairly new to programming, and this is a learning project. It may not be perfect, but I’m improving as I go. Any feedback is appreciated.
+
 ## Features
 - Auto BPM detection with candidate list
 - Auto beat offset calculation
