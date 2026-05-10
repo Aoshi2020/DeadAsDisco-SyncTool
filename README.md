@@ -6,7 +6,6 @@ Built for Dead as Disco mapping.
 ## Features
 - Auto BPM detection with candidate list
 - Auto beat offset calculation
-- Start Time detection (trim silent intros)
 - BPM Sections for variable-tempo songs
 - Real waveform viewer with beat grid overlay
 
