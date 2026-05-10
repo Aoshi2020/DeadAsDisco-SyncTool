@@ -11,7 +11,8 @@ Built for Dead as Disco mapping.
 - Real waveform viewer with beat grid overlay
 
 ## Usage
-1. Extract the RAR file
-2. Run `DeadAsDisco-SyncTool.exe`
-3. Drop any audio file onto the app (MP3, OGG, WAV, FLAC, M4A)
-4. Copy BPM, Beat Offset, and Start Time into Dead as Disco's Advanced Editor
+1. Download the RAR file
+2. Extract the RAR file anywhere
+3. Run `DeadAsDisco-SyncTool.exe`
+4. Drop any audio file onto the app (MP3, OGG, WAV, FLAC, M4A)
+5. Copy BPM, Beat Offset, and Start Time into Dead as Disco's Advanced Editor
