@@ -16,3 +16,7 @@ Built for Dead as Disco mapping.
 3. Run `DeadAsDisco-SyncTool.exe`
 4. Drop any audio file onto the app (MP3, OGG, WAV, FLAC, M4A)
 5. Copy BPM, Beat Offset, and Start Time into Dead as Disco's Advanced Editor
+
+## Notice
+The executable may trigger antivirus warnings due to packaging methods. This is expected for Python-to-exe converters and does not reflect actual malware behavior.
+I have add my python file in it so you can scan.
