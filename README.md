@@ -18,5 +18,11 @@ Built for Dead as Disco mapping.
 5. Copy BPM, Beat Offset, and Start Time into Dead as Disco's Advanced Editor
 
 ## Notice
-The executable may trigger antivirus warnings due to packaging methods. This is expected for Python-to-exe converters and does not reflect actual malware behavior.
-I have add my python file in it so you can scan.
+Some antivirus engines (especially heuristic-based scanners such as VirusTotal aggregators) may flag packaged Python executables as “suspicious” or “generic malware.”
+This is a known false positive pattern caused by bundling tools like PyInstaller and embedded assets.
+
+## Verification
+You can verify the safety of this project by:
+1. Reviewing the source code in this repository
+2. Running the Python script directly (dead_as_disco_sync.py)
+3. Observing that all execution is local (127.0.0.1 only)
