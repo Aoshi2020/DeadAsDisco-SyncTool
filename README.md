@@ -9,7 +9,6 @@ Built for Dead as Disco mapping.
 - Start Time detection (trim silent intros)
 - BPM Sections for variable-tempo songs
 - Real waveform viewer with beat grid overlay
-- Fully offline — no internet required after install
 
 ## Usage
 1. Extract the RAR file
