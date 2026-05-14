@@ -18,7 +18,7 @@ I’m fairly new to programming, and this is a learning project. It may not be p
 3. Run `DeadAsDisco-SyncTool.exe`
 4. Drop any audio file onto the app (MP3, OGG, WAV, FLAC, M4A)
 5. Copy BPM, Beat Offset, and Start Time into Dead as Disco's Advanced Editor
-6. Hightly recommend use WAV file because it more accurate.
+6. Highly recommend use WAV file because it more accurate.
 
 ## Notice
 Some antivirus engines (especially heuristic-based scanners such as VirusTotal aggregators) may flag packaged Python executables as “suspicious” or “generic malware.”
